@@ -1,0 +1,24 @@
+{
+  "name": "fei-1",
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "jquery-inview": "^1.1.2",
+    "load-script": "^1.0.0",
+    "lodash": "^4.11.1",
+    "mantra-core": "^1.5.0",
+    "meteor-node-stubs": "^0.2.3",
+    "moment": "^2.13.0",
+    "prosemirror": "^0.5.1",
+    "react": "^0.14.8",
+    "react-bootstrap": "^0.29.0",
+    "react-disqus-thread": "^0.3.1",
+    "react-dom": "^0.14.8",
+    "react-mounter": "^1.2.0",
+    "react-s-alert": "^1.1.2",
+    "summernote": "^0.8.1"
+  }
+}

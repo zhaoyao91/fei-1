@@ -1,0 +1,3 @@
+.s-alert-box {
+    z-index: 1030; /* 提高z-index以免被appbar盖住 */
+}
