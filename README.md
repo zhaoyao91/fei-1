@@ -1,6 +1,9 @@
 # Fei-1 
 Configurable universal official web site (web app) for my friend (A Fei) and everyone.
 
+## Note
+This project has been moved to [ShakingBlog](https://github.com/ShakingMap/ShakingBlog). 
+
 ## Description
 - this is a: web app
 - used as: official web site or blog for organization or personal use
